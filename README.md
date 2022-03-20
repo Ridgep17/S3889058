@@ -1,13 +1,20 @@
 # S3889058
 
-RIDGE PATTERSON 
+html {
+height: 100%;
+}
+body {
+background-image: linear-gradient(#FFFFFF, rgb(255, 122, 89));
+}
+
+RIDGE PATTERSON
 
 ![Profile](https://user-images.githubusercontent.com/80724676/159151157-764b8a28-d5da-44c2-acac-666f74414a75.jpg)
 
 
-PERSONAL INFORMATION: 
+PERSONAL INFORMATION:
 
-STUDENT EMAIL: S3889058@STUDENT.RMIT.EDU.AU 
+STUDENT EMAIL: S3889058@STUDENT.RMIT.EDU.AU
 STUDENT NUMBER: S3889058
 
 I am from Canberra, ACT where I have lived all my life. I am passionate about sport especially AFL and Cricket. I was so passionate that I started to study in the field of Sport and Exercise Science at the University of Canberra after completing certificates at the local Tafe, Canberra Institute of Technology. I made the decision to make a change from the University of Canberra where I was studying a bachelor’s degree to RMIT University in the field of Information technology (online) as it was more flexible with working full time and when I realised that sport was a hobby and not the career I wanted to proceed with. A fun fact about me is that through my passion for sport I learnt that I am ambidextrous.
@@ -17,17 +24,17 @@ I am from Canberra, ACT where I have lived all my life. I am passionate about sp
 INTEREST IN IT:
 
 The reason I am interested in Information Technology is that it is all around us. It connects us. As someone who is always using technology, it is fascinating to see how much technology as grown since I was a child from using corded controllers to wireless controllers and controllers that have feedback for the individual user. With the way Technology is evolving, there is no limit to how far it can reach, from simple things like phones to more complex things to Artificial Intelligence. These a just a few reasons why I am drawn into the field.
-One of the reasons that I chose RMIT is it has a fantastic reputation and was extremely flexible which was suitable to my lifestyle. As someone who works full time, flexibility is paramount to having a healthy work/life/study balance. 
+One of the reasons that I chose RMIT is it has a fantastic reputation and was extremely flexible which was suitable to my lifestyle. As someone who works full time, flexibility is paramount to having a healthy work/life/study balance.
 I decided to follow Information Technology because as someone who uses it every day, I would like a better understanding of the basic concepts that surround it and generally expand my current knowledge.
 I expect to learn a variety of different content related to Information Technologies such as programming and in general expand my knowledge of Information Technology.
 
-IDEAL JOB: APS 3 Help Desk 
+IDEAL JOB: APS 3 Help Desk
 
 https://www.seek.com.au/job/56199291?type=standard#sol=99dbe30362681b22767e4719962c287e7d4a3dda
-DESCRIPTION: 
+DESCRIPTION:
 The position is an Australian Public Service (APS) 3 helpdesk officer which deals with a variety of different issues. The role will require a successful candidate to work in a busy team where customer service skills are important and where the candidate will need a variety of knowledge in regard to problem solving and troubleshooting of IT issues.
 The role requires skills in face-to-face customer service as well as strong knowledge in the following: Active Directory, Microsoft Exchange, Video Conferencing, Remote Access i.e., Citrix, Microsoft office suite and the ability to obtain or maintain a federal government security clearance.
-• A description (in your own words) of the skills, qualifications and experience you currently have. 
+• A description (in your own words) of the skills, qualifications and experience you currently have.
 I currently mainly possess skills based in customer service and sports development.
 For this role I currently meet the criteria for customer service skills, however I would need to expand my knowledge base and gain experience in several other areas. I would need to gain more experience through my Information Technology Degree but could also look at short courses to help expand my knowledge and have a better understanding of what the employer is looking for and have a better opportunity of employment in future.
 
@@ -45,7 +52,7 @@ Learning Style Test: VISUAL
 
 Personally, I do not read too much into the results as I they do vary each time you do them. I also find some people may not answer truthfully so the results can get skewed a little bit. I do tend to agree with my results I find I am more a visual learner and that I can be more assertive in certain situations.
 I do not think that these results will hugely influence my behavior in a team environment as I think if you are respectful and clear it is a lot easier to be part of the team and can reduce miss communication.
-In factoring in these results, I think it is paramount that there is clear communication and common goals. 
+In factoring in these results, I think it is paramount that there is clear communication and common goals.
 
 PROJECT IDEA: AUTOMATED CALENDAR SCHEDULING/REMINDER
 
@@ -59,7 +66,7 @@ I believe this would be an interesting concept as I personally always forget whe
 
 Description:
 
-The main feature of this app would be that you could automatically grab details from your messages, emails, or whatever apps that you use. This would make it extremely efficient and easy to use. No more forgetting you have, appointments, meetings, or social events. This would make it the most different to most calendar apps as you have to add the event and time in each time you organise something and set up a reminder time. Our app would automatically add it to your calendar and by default would remind you 24hrs beforehand and 8am the morning of this takes out the hassle of always having decide when you want to be reminded. The settings would make it easy to be updated for when you want to be reminded you would be able to choose from a list of options of when to be reminded i.e., 24hrs beforehand or 8am the morning of. These can be changed through the settings function at any time to make it more user friendly. It could also be used to share upcoming events with friends or family and even colleagues. 
+The main feature of this app would be that you could automatically grab details from your messages, emails, or whatever apps that you use. This would make it extremely efficient and easy to use. No more forgetting you have, appointments, meetings, or social events. This would make it the most different to most calendar apps as you have to add the event and time in each time you organise something and set up a reminder time. Our app would automatically add it to your calendar and by default would remind you 24hrs beforehand and 8am the morning of this takes out the hassle of always having decide when you want to be reminded. The settings would make it easy to be updated for when you want to be reminded you would be able to choose from a list of options of when to be reminded i.e., 24hrs beforehand or 8am the morning of. These can be changed through the settings function at any time to make it more user friendly. It could also be used to share upcoming events with friends or family and even colleagues.
 
 The app could have a few obstacles which would have to be thoroughly looked at before release. Such has privacy issues when the app would require you to give access to personal information as well as multiple apps that you would use in conjunction with this app. One of the main issues though would be how the app is designed. It needs to be designed well enough from the start up to ensure it is as user friendly as possible. The last thing we would want would be to release the app and the time zone was set differently so then the user turns up late or not at all. The other issue would be making sure that our app is suitable on all platforms and interfaces i.e. Android or Apple so that we don’t limit the potential of widely available we can get our app.
 
