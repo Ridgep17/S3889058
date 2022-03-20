@@ -1,6 +1,7 @@
 # S3889058
 
 RIDGE PATTERSON 
+[Profile](https://user-images.githubusercontent.com/80724676/159151070-c613c6d6-79a4-47ef-8bd6-0a1e75c07e9d.jpg)
 
 PERSONAL INFORMATION: 
 
@@ -30,9 +31,11 @@ For this role I currently meet the criteria for customer service skills, however
 
 PERSONAL PROFILE:
 The Big 5 Test:
- 
+<img width="435" alt="Big 5 test" src="https://user-images.githubusercontent.com/80724676/159151052-793e1cc0-513e-43bb-905f-f0407c34c5ce.PNG">
+
 Myers Briggs Test: ESTP-A / ESTP-T
- 
+<img width="424" alt="Personalityquiz" src="https://user-images.githubusercontent.com/80724676/159151044-aa78b810-a1c3-4499-a0c9-1e28a7c7b320.PNG">
+
 
 Learning Style Test: VISUAL
 Personally, I do not read too much into the results as I they do vary each time you do them. I also find some people may not answer truthfully so the results can get skewed a little bit. I do tend to agree with my results I find I am more a visual learner and that I can be more assertive in certain situations.
