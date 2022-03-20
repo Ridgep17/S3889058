@@ -42,6 +42,7 @@ Myers Briggs Test: ESTP-A / ESTP-T
 
 
 Learning Style Test: VISUAL
+
 Personally, I do not read too much into the results as I they do vary each time you do them. I also find some people may not answer truthfully so the results can get skewed a little bit. I do tend to agree with my results I find I am more a visual learner and that I can be more assertive in certain situations.
 I do not think that these results will hugely influence my behavior in a team environment as I think if you are respectful and clear it is a lot easier to be part of the team and can reduce miss communication.
 In factoring in these results, I think it is paramount that there is clear communication and common goals. 
