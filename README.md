@@ -33,9 +33,11 @@ For this role I currently meet the criteria for customer service skills, however
 
 PERSONAL PROFILE:
 The Big 5 Test:
+
 <img width="435" alt="Big 5 test" src="https://user-images.githubusercontent.com/80724676/159151052-793e1cc0-513e-43bb-905f-f0407c34c5ce.PNG">
 
 Myers Briggs Test: ESTP-A / ESTP-T
+
 <img width="424" alt="Personalityquiz" src="https://user-images.githubusercontent.com/80724676/159151044-aa78b810-a1c3-4499-a0c9-1e28a7c7b320.PNG">
 
 
