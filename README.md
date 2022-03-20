@@ -7,8 +7,8 @@
 <br>RIDGE PATTERSON<br>
 <br>
 
-<img width="435" alt="PROFILE" src=https://user-images.githubusercontent.com/80724676/159153854-3b1795d0-e5b4-4946-9bec-b7ae5872e72a.PNG">
-
+![Profile](https://user-images.githubusercontent.com/80724676/159153970-584b8788-6b96-4e97-8ea0-51b23e12b526.jpg)
+      
 <br>PERSONAL INFORMATION:<br>
 <br>
 <br>STUDENT EMAIL: S3889058@STUDENT.RMIT.EDU.AU<br>
