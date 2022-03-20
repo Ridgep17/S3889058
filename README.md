@@ -7,8 +7,7 @@
 <br>RIDGE PATTERSON<br>
 <br>
 
-![Profile](https://user-images.githubusercontent.com/80724676/159151157-764b8a28-d5da-44c2-acac-666f74414a75.jpg)
-
+![Profile](https://user-images.githubusercontent.com/80724676/159153819-2fd489cf-b1bf-4f4d-addb-527b53e57c38.jpg)
 
 
 <br>PERSONAL INFORMATION:<br>
