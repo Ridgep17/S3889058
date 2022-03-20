@@ -1,13 +1,11 @@
-# S3889058
+<html>
+   <head>
+      <title>HTML Profile</title>
+   </head>
+   <body style="background-color:#B7CEEC;">
 
-html {
-height: 100%;
-}
-body {
-background-image: linear-gradient(#FFFFFF, rgb(255, 122, 89));
-}
-
-RIDGE PATTERSON
+<br>RIDGE PATTERSON<br>
+<br>
 
 ![Profile](https://user-images.githubusercontent.com/80724676/159151157-764b8a28-d5da-44c2-acac-666f74414a75.jpg)
 
