@@ -1,7 +1,9 @@
 # S3889058
 
 RIDGE PATTERSON 
-[Profile](https://user-images.githubusercontent.com/80724676/159151070-c613c6d6-79a4-47ef-8bd6-0a1e75c07e9d.jpg)
+
+![Profile](https://user-images.githubusercontent.com/80724676/159151157-764b8a28-d5da-44c2-acac-666f74414a75.jpg)
+
 
 PERSONAL INFORMATION: 
 
